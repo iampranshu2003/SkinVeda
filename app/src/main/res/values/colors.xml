@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="SoftGreen">#A8D5BA</color>
+    <color name="Beige">#F5E8C7</color>
+    <color name="GoldenAccent">#D4A373</color>
+    <color name="LightOlive">#C3D6A4</color>
+    <color name="MutedBrown">#8D7B68</color>
+    <color name="PaleCream">#FFF4E0</color>
+    <color name="SoftCoral">#E0A899</color>
+    <color name="MutedTeal">#78A1A7</color>
+    <color name="green">#306104</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#151515</color>
+    <color name="colorAccent">#FF7043</color>
+    <color name="intro1">#9F4747</color>
+    <color name="introButton">#27784B</color>
+    <color name="intro2">#0F0F1A</color>
+    <color name="intro2Button">#B28B00</color>
+    <color name="intro3Button">#A3D5A3</color>
+    <color name="intro3">#FFD1DC</color>
+
+
+
+    //text colours
+    <color name="DarkCharcoal">#333333</color>
+    <color name="WarmGray">#5A5A5A</color>
+
+</resources>

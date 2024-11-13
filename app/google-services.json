@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13853977942",
+    "project_id": "faceapp-fd784",
+    "storage_bucket": "faceapp-fd784.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13853977942:android:128a56d87daf99186d7af7",
+        "android_client_info": {
+          "package_name": "com.example.androidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyActuA8JvzLjFpqNyBFYjBm08LSYiFap7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

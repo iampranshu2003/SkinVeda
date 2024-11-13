@@ -1,2 +1,2 @@
-# SkinVeda
-an app that detects your skin and cure
+# AndroidApp
+this is a native app for the skin care 
